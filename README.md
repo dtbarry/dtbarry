@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dtbarry
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning C# and Blazor.
+- 🌱 I’m currently learning Astro and React.
 
 <!---
 dtbarry/dtbarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
